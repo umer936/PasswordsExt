@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Password Requirement Checker",
   "description": "Because no one can ever remember what the site wants",
-  "version": "0.0.62",
+  "version": "0.0.65",
   "icons": {
     "128": "icon.png"
   },
@@ -12,7 +12,6 @@
     "default_title": "I need help"
   },
   "permissions": [
-    "activeTab",
-    "http://PassReqs.umer936.com/"
+    "activeTab"
   ]
 }
